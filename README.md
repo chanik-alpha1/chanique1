@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Image processing, Deep learning, CV
 - 💞️ I’m looking to collaborate on Data science projects, Backend Development and start-up ideas
 - 📫 How to reach me chanik@farmerline.co | stv.yao@gmail.com | +233245125589
-- Join me to interesting things together!
+- Join me to do interesting things together!
 
 - <p align="center">
   <a href="https://skillicons.dev">
